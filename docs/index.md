@@ -32,4 +32,4 @@ If our practices change (for example, if we decide to collect limited data to im
 
 ## 8. Contact Us
 If you have questions about this Privacy Policy, contact:
-**Email:** your-email@example.com
+**Email:** support@wingmantra.com
